@@ -1,11 +1,23 @@
 body {
     background-color: #BFE1FF;
+    color: black;
+    font-family: 'Helvetica';
 }
 
-h1, p {
-    font-family: 'Helvetica';
+h1, h2, p {
+    font-family: inherit;
 }
 
 hr {
     border-color: #5d3ef9;
+}
+
+.header {
+    flex-direction: column;
+    justify-content: center;
+}
+
+#ferrariportrait {
+    max-width: 300px;
+    max-height: auto;
 }
