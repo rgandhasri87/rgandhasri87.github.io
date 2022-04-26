@@ -12,12 +12,13 @@ hr {
     border-color: #5d3ef9;
 }
 
-.header {
+div.header {
+    display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 #ferrariportrait {
-    max-width: 300px;
-    max-height: auto;
+    height: 12em;
 }
