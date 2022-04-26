@@ -17,8 +17,9 @@ div.header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-top: 5%;
 }
 
 #ferrariportrait {
-    height: 12em;
+    height: 15em;
 }
