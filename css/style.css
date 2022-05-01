@@ -12,7 +12,7 @@ hr {
     border-color: #5d3ef9;
 }
 
-div.header {
+.portrait-image-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,5 +20,5 @@ div.header {
 }
 
 #ferrariportrait {
-    height: 15em;
+    height: 25vh;
 }
